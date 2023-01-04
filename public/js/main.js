@@ -55,18 +55,23 @@
 
 
 //exo5
-//pas finis
+
 
 // let objt = {
 //     nom: "alem",
+//     age: "",
 
 //     actiond() {
-//         let age = +prompt("entrer un age")
-//         push.objt(age)
-//     }
+//         let ageNouveau = +prompt("entrer un age");
+//         objt.age = ageNouveau
 
+        
+//     },
+
+//     afficherAge() {
+//         alert(`${objt.nom} a ${objt.age} ans`);
+//     }
 // }
 
-// objt.actiond()
 
-// alert(`${objt.nom} a ${objt.age} ans`)
+
